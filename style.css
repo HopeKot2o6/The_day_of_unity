@@ -1,0 +1,34 @@
+h1 {
+	font-size: 56px	;
+	text-align: center;
+}
+div{
+	font-size: 30px;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+ul{
+	text-align: left;
+}
+a{
+	color: white;
+	font-size: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+html{
+        background-image: url(https://img.freepik.com/premium-vector/abstract-smooth-blur-green-painting-background-for-website-banner-and-paper-decorative-design_120819-2037.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
